@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>选中状态</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="选中状态">
+            <g id="Group-7-Copy-3" transform="translate(5.000000, 5.000000)">
+                <path d="M20,10 C20,15.5229412 15.5241176,20 10,20 C4.47588235,20 0,15.5229412 0,10 C0,4.47823529 4.47588235,0 10,0 C15.5241176,0 20,4.47823529 20,10" id="Fill-26-Copy-2" fill="#229FFF"></path>
+                <polygon id="Fill-28-Copy-2" fill="#FFFFFF" points="16 6.16533333 9.064 14.4766667 4 10.1386667 4.85666667 9.15133333 8.908 12.6326667 14.986 5.33333333"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
